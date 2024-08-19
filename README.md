@@ -1,6 +1,3 @@
-Here's the README.md file that includes instructions on setting up and running both the frontend and backend locally:
-
-````markdown
 # Help Center Project
 
 This project consists of a frontend built with React.js and a backend API using Node.js and Express.js. The backend handles Help Center card management through RESTful API endpoints, and the frontend displays the UI for users to interact with the Help Center.
@@ -31,6 +28,7 @@ Make sure you have the following installed:
    ```bash
    cd backend
    ```
+
 ````
 
 2. **Install the backend dependencies:**
@@ -137,5 +135,6 @@ frontend/
    cd frontend
    npm start
    ```
-
 Both servers should now be running locally. The frontend can be accessed at `http://localhost:3000`, and the backend API is available at `http://localhost:5000`.
+
+````
