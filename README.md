@@ -18,13 +18,14 @@ Make sure you have the following installed:
 
 ## Backend Setup
 
-1. **Navigate to the backend directory:**
+1. ** clone the repository and Navigate to the backend directory:**
 
    ```bash
+   clone https://github.com/imlavaraju/fullstack-assignment.git
    cd backend
    ```
 
-````
+
 
 2. **Install the backend dependencies:**
 
@@ -132,4 +133,3 @@ frontend/
    ```
 Both servers should now be running locally. The frontend can be accessed at `http://localhost:3000`, and the backend API is available at `http://localhost:5000`.
 
-````
