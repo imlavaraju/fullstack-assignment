@@ -3,7 +3,7 @@ import "./App.css";
 import Header from "./components/Header";
 import Main from "./components/main";
 import BoxesContainer from "./components/BoxesContainer";
-const HelpCenter = () => {
+const App = () => {
   const [boxesData, setBoxesData] = useState([]);
 
   useEffect(() => {
@@ -57,4 +57,4 @@ const HelpCenter = () => {
   );
 };
 
-export default HelpCenter;
+export default App;
