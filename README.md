@@ -22,6 +22,7 @@ Make sure you have the following installed:
 
    ```bash
    clone https://github.com/imlavaraju/fullstack-assignment.git
+   cd fullstack-assignment
    cd backend
    ```
 
@@ -55,6 +56,7 @@ Make sure you have the following installed:
 1. **Navigate to the frontend directory:**
 
    ```bash
+   cd fullstack-assignment
    cd frontend
    ```
 
@@ -121,6 +123,7 @@ frontend/
 2. In the first terminal, navigate to the backend directory and run the backend server:
 
    ```bash
+   cd fullstack-assignment
    cd backend
    npm start
    ```
@@ -128,6 +131,7 @@ frontend/
 3. In the second terminal, navigate to the frontend directory and run the frontend development server:
 
    ```bash
+   cd fullstack-assignment
    cd frontend
    npm start
    ```
