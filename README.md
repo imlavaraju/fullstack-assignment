@@ -18,7 +18,7 @@ Make sure you have the following installed:
 
 ## Backend Setup
 
-1. ** clone the repository and Navigate to the backend directory:**
+1.  clone the repository and Navigate to the backend directory:
 
    ```bash
    clone https://github.com/imlavaraju/fullstack-assignment.git
