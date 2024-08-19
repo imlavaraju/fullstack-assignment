@@ -4,15 +4,10 @@ This project consists of a frontend built with React.js and a backend API using 
 
 ## Table of Contents
 
-- [Getting Started](#getting-started)
 - [Backend Setup](#backend-setup)
 - [Frontend Setup](#frontend-setup)
 - [Project Structure](#project-structure)
 - [Technologies Used](#technologies-used)
-
-## Getting Started
-
-Follow these instructions to set up and run both the backend and frontend locally.
 
 ### Prerequisites
 
